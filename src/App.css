@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #111;
+}
+
+.app {
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  background: #2cda9d;
+}
